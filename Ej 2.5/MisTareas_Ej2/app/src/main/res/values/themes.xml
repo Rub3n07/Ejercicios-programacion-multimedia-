@@ -1,0 +1,6 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Tema Material 3 (necesario para MaterialAlertDialogBuilder y los TextInputLayout) -->
+    <style name="Base.Theme.MisTareas" parent="Theme.Material3.DayNight.NoActionBar" />
+
+    <style name="Theme.MisTareas" parent="Base.Theme.MisTareas" />
+</resources>
