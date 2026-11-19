@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Nombre de la aplicación -->
+    <string name="app_name">Mis Tareas</string>
+
+    <!-- Menu superior -->
+    <string name="ver_cuadricula">Ver en cuadrícula</string>
+    <string name="ver_lista">Ver en lista</string>
+    <string name="borrar_completadas">Borrar completadas</string>
+
+    <!-- Menu popup -->
+    <string name="opciones_tarea">Opciones de la tarea</string>
+    <string name="prioridad_alta">Prioridad alta</string>
+    <string name="prioridad_media">Prioridad media</string>
+    <string name="prioridad_baja">Prioridad baja</string>
+
+    <!-- Menu contextual -->
+    <string name="duplicar">Duplicar</string>
+    <string name="eliminar">Eliminar</string>
+
+    <!-- Otros textos -->
+    <string name="anadir_tarea">Añadir tarea</string>
+    <string name="nueva_tarea">Nueva tarea %1$d</string>
+    <string name="nueva_tarea_descripcion">Añadida con el botón +</string>
+    <string name="tareas_borradas">Tareas borradas: %1$d</string>
+    <string name="copia_de">%1$s (copia)</string>
+
+    <!-- Textos originales de Android Studio -->
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+
+</resources>
